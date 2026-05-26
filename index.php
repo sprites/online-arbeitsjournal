@@ -6,7 +6,7 @@ require_once("db_scripts/connect_db.php");
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Arbeitsjournal-Prototyp</title>
+        <title>Arbeitsjournal Prototyp</title>
 
         <!--Werden für die Reiter benötigt-->
         <script src="javascript/jquery-1.7.1.min.js" type="text/javascript"></script> 
